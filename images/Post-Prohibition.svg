@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Post-Prohibition logo</title>
+  <desc id="desc">A simple circular academic network emblem with a central mark.</desc>
+  <rect width="200" height="200" fill="#F2EFEA"/>
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#15130F" stroke-width="2"/>
+  <circle cx="100" cy="100" r="52" fill="none" stroke="#15130F" stroke-width="1.5"/>
+  <path d="M100 38 L128 100 L100 162 L72 100 Z" fill="none" stroke="#15130F" stroke-width="2"/>
+  <path d="M100 52 L117 100 L100 148 L83 100 Z" fill="none" stroke="#15130F" stroke-width="1.5"/>
+  <path d="M38 100 H162" stroke="#15130F" stroke-width="1.5"/>
+  <path d="M100 38 V162" stroke="#15130F" stroke-width="1.5"/>
+</svg>
